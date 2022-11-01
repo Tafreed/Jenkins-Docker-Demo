@@ -1,0 +1,15 @@
+C:\Files\S3 API\Method 2\out\S3 API.exe
+C:\Files\S3 API\Method 2\out\appsettings.Development.json
+C:\Files\S3 API\Method 2\out\appsettings.json
+C:\Files\S3 API\Method 2\out\S3 API.dll
+C:\Files\S3 API\Method 2\out\S3 API.deps.json
+C:\Files\S3 API\Method 2\out\S3 API.runtimeconfig.json
+C:\Files\S3 API\Method 2\out\S3 API.pdb
+C:\Files\S3 API\Method 2\out\Amazon.AwsToolkit.Telemetry.SDK.dll
+C:\Files\S3 API\Method 2\out\AWSSDK.Core.dll
+C:\Files\S3 API\Method 2\out\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Files\S3 API\Method 2\out\AWSSDK.S3.dll
+C:\Files\S3 API\Method 2\out\Microsoft.OpenApi.dll
+C:\Files\S3 API\Method 2\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Files\S3 API\Method 2\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Files\S3 API\Method 2\out\Swashbuckle.AspNetCore.SwaggerUI.dll

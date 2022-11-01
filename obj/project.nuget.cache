@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1ds34WFuUG2kZ21VDbYe7FHXOaOQi/yIbjWQU6fzB4s2qaPHi24HFebnM+wFz2y1Mzs26ZOYOBmMrWg5CNwiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Files\\S3 API\\Method 2\\S3 API\\S3 API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SNuman\\.nuget\\packages\\aws.toolkit.telemetry.sdk\\1.0.73\\aws.toolkit.telemetry.sdk.1.0.73.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\awssdk.core\\3.7.13.6\\awssdk.core.3.7.13.6.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.2\\awssdk.extensions.netcore.setup.3.7.2.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\awssdk.s3\\3.7.9.55\\awssdk.s3.3.7.9.55.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\SNuman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AWS.Toolkit.Telemetry.SDK 1.0.73' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AWS.Toolkit.Telemetry.SDK",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

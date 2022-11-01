@@ -1,0 +1,62 @@
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\appsettings.Development.json
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\appsettings.json
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\S3 API.exe
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\S3 API.deps.json
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\S3 API.runtimeconfig.json
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\S3 API.dll
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\S3 API.pdb
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\Amazon.AwsToolkit.Telemetry.SDK.dll
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Files\S3 API\S3 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.csproj.AssemblyReference.cache
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.AssemblyInfoInputs.cache
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.AssemblyInfo.cs
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.csproj.CoreCompileInputs.cache
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.MvcApplicationPartsAssemblyInfo.cs
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.MvcApplicationPartsAssemblyInfo.cache
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\scopedcss\bundle\S3 API.styles.css
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.csproj.CopyComplete
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.dll
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\refint\S3 API.dll
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.pdb
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\S3 API.genruntimeconfig.cache
+C:\Files\S3 API\S3 API\obj\Debug\net6.0\ref\S3 API.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\appsettings.Development.json
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\appsettings.json
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\S3 API.exe
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\S3 API.deps.json
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\S3 API.runtimeconfig.json
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\S3 API.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\S3 API.pdb
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\Amazon.AwsToolkit.Telemetry.SDK.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Files\S3 API\Method 2\S3 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.csproj.AssemblyReference.cache
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.AssemblyInfoInputs.cache
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.AssemblyInfo.cs
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.csproj.CoreCompileInputs.cache
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.MvcApplicationPartsAssemblyInfo.cs
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.MvcApplicationPartsAssemblyInfo.cache
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\scopedcss\bundle\S3 API.styles.css
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.csproj.CopyComplete
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.dll
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\refint\S3 API.dll
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.pdb
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\S3 API.genruntimeconfig.cache
+C:\Files\S3 API\Method 2\S3 API\obj\Debug\net6.0\ref\S3 API.dll
